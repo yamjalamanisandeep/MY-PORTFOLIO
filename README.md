@@ -4,6 +4,8 @@ This is a personal portfolio website built using Next.js, React, and Tailwind CS
 
 📌 Features
 ✅ Home Page – Introduction with a dynamic hero section.
+
+
 ✅ About Me – Brief background and experience.
 ✅ Projects – Showcases my work with descriptions and images.
 ✅ Skills – List of technical skills with proficiency levels.
