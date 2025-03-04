@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import Image from "next/image"; // Import the Image component
+import Image from "next/legacy/image"; // Import the Image component
 import { projectsData } from "@/assets/assets"; // Import projects data
 import { Outfit } from 'next/font/google';
 
