@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Image from "next/image"; // Import the Image component
+import Image from "next/legacy/image"; // Import the Image component
 import { certificatesData } from "@/assets/assets"; // Import certificates data
 
 const Certificates = () => {
