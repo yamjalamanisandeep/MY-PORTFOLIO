@@ -1,21 +1,26 @@
+# Netlify Build Configuration
 [build]
   command = "npm run build"
   publish = ".next"
 
+# Redirect all routes to Next.js handler
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
 
-[build.environment]
-  NODE_VERSION = "18" 
-  "NEXT_PUBLIC_API_URL = "http://localhost:3000/api"
+# Environment variables (if needed)
+[context.production.environment]
+  NODE_VERSION = "18"
+  NEXT_PUBLIC_API_URL = "https://your-api-url.com"
 
+# Functions configuration (if using Netlify Functions)
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
 
+# Caching settings (Optional)
 [[headers]]
   for = "/*"
   [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"
-
-[functions]
-  directory = "netlify/functions"
+    Cache-Control = "public, max-age=0, must-revalidate"
