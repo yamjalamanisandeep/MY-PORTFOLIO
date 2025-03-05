@@ -16,8 +16,7 @@
 
 
 
-
-         🔗 Live Demo :- https://my-portfolio-psi-one-42.vercel.app/
+🔗 Live Demo :- https://my-portfolio-psi-one-42.vercel.app/
 
 ## 🚀 About the Project  
 I’m excited to share my **personal portfolio website**, built using **React.js, Next.js, and Tailwind CSS**! 🚀  
