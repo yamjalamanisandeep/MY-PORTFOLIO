@@ -46,14 +46,6 @@ This project serves as a showcase of my **skills, projects, certifications, and 
 
 ---
 
-## 📸 Screenshots  
-
-### 🔹 Light Mode  
-![image](https://github.com/user-attachments/assets/8bfb0fe6-ae27-4f28-8a6f-14726e721d66)
-
-
-### 🔹 Dark Mode  
-![image](https://github.com/user-attachments/assets/c8c750e3-7058-4957-b789-9e365f2c66af)
 
 
 ---
