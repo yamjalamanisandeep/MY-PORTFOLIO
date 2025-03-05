@@ -18,7 +18,7 @@
 
 🔗 Live Demo :- https://my-portfolio-psi-one-42.vercel.app/
 
- ##ℹ️ About the Project  
+## ℹ️ About the Project  
  This is my personal portfolio website built using Next.js, React, and Tailwind CSS.  
 It serves as a digital resume to showcase my skills, projects, and experiences in web development.  
 The website is designed to be fast, responsive, and SEO-friendly for better user experience.  
