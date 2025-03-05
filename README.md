@@ -1,6 +1,6 @@
 # 🌐 My Portfolio Website  
  
-: ![image](https://github.com/user-attachments/assets/70cccbba-d436-42d2-bd10-94a90dd1259f)
+ ![image](https://github.com/user-attachments/assets/70cccbba-d436-42d2-bd10-94a90dd1259f)
 
 
 
@@ -18,11 +18,12 @@
 
 🔗 Live Demo :- https://my-portfolio-psi-one-42.vercel.app/
 
-## 🚀 About the Project  
-I’m excited to share my **personal portfolio website**, built using **React.js, Next.js, and Tailwind CSS**! 🚀  
-
-This project serves as a showcase of my **skills, projects, certifications, and career journey**, presented in a clean, interactive, and professional manner.  
-
+## ℹ️ About the Project  
+This is my **personal portfolio website** built using **Next.js, React, and Tailwind CSS**.  
+It serves as a digital resume to showcase my **skills, projects, and experiences** in web development.  
+The website is designed to be **fast, responsive, and SEO-friendly** for better user experience.  
+It also features **smooth animations and interactive UI components** to enhance engagement.  
+The project follows **best coding practices and modern web development standards**.  
 ---
 
 ## ✨ Features    
