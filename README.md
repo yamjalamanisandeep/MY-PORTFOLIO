@@ -75,34 +75,7 @@ my-portfolio/
 │── next.config.js      # Next.js configuration
 │── README.md           # Project documentation
 
----
-
-## 🚀 How to Run Locally  
-
-## 1️⃣ Clone the Repository  
-```sh
-git clone https://github.com/yamjalamanisandeep/MY-PORTFOLIO.git
-cd MY-PORTFOLIO
 
 
-## npm install
-
-npm run dev
-
-🔗 The website will be available at http://localhost:3000.
-🔗 Live Demo :-https://my-portfolio-psi-one-42.vercel.app/
-
-
-
-
-
----
-
-### ✅ **Final Steps Before Committing to GitHub**
-- **Replace placeholders** (`portfolio link`, `LinkedIn`, `email`, `image paths`).  
-- **Ensure images exist in the `assets/` folder** inside your project.  
-- **Commit and push the `README.md` file** using Git.  
-
-Now your **GitHub `README.md`** is fully professional and well-structured! 🚀🔥
-
+jksdnjksdn
 
