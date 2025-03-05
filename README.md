@@ -62,8 +62,10 @@ This project serves as a showcase of my **skills, projects, certifications, and 
 If you like this project, consider starring ⭐ the repository to support my work!
 
 
+  
 ## 📂 Project Structure  
-```bash
+
+```plaintext
 my-portfolio/
 │── app/
 │   ├── components/     # Reusable UI components
@@ -74,13 +76,19 @@ my-portfolio/
 │── package.json        # Project dependencies
 │── next.config.js      # Next.js configuration
 │── README.md           # Project documentation
-exit
 
 
 
 
-## hello
 
+### 🔹 Why?  
+- The **triple backticks (` ``` `)** ensure GitHub renders it as a **code block**.  
+- **"plaintext"** tells Markdown to display raw text without syntax highlighting.  
 
+#### ✅ **Next Steps:**  
+- Edit your `README.md` file.  
+- Replace the existing project structure section with the formatted version above.  
+- **Commit and push** your changes to GitHub.  
 
+Now, the structure should appear **clean and readable** in your GitHub repository. 🚀
 
