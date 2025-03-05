@@ -74,7 +74,10 @@ my-portfolio/
 │── package.json        # Project dependencies
 │── next.config.js      # Next.js configuration
 │── README.md           # Project documentation
+exit
 
+
+## hello
 
 
 
