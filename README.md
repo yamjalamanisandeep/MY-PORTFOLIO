@@ -44,15 +44,30 @@ This project serves as a showcase of my **skills, projects, certifications, and 
 | **Framer Motion** | Animations & Transitions |
 | **Vercel** | Deployment |
 
----
 
 
 
----
+
+## PROJECT
+![image](https://github.com/user-attachments/assets/cc76f5ff-d923-4232-84d0-3097e3bf53fe)
+
+
+## 🔗 Live Demo https://my-portfolio-psi-one-42.vercel.app
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📬 Connect with Me
 📩 Email: yamjalamanisandeep@gmail.com
-
 
 🔗 LinkedIn: linkedin.com/in/ymanisandeep
 
@@ -62,33 +77,4 @@ This project serves as a showcase of my **skills, projects, certifications, and 
 If you like this project, consider starring ⭐ the repository to support my work!
 
 
-  
-## 📂 Project Structure  
-
-```plaintext
-my-portfolio/
-│── app/
-│   ├── components/     # Reusable UI components
-│   ├── pages/          # Main pages (Home, About, Projects, Contact)
-│── assets/             # Images and icons
-│── public/             # Static files like resume
-│── styles/             # Global styles
-│── package.json        # Project dependencies
-│── next.config.js      # Next.js configuration
-│── README.md           # Project documentation
-
-
-
-
-
-### 🔹 Why?  
-- The **triple backticks (` ``` `)** ensure GitHub renders it as a **code block**.  
-- **"plaintext"** tells Markdown to display raw text without syntax highlighting.  
-
-#### ✅ **Next Steps:**  
-- Edit your `README.md` file.  
-- Replace the existing project structure section with the formatted version above.  
-- **Commit and push** your changes to GitHub.  
-
-Now, the structure should appear **clean and readable** in your GitHub repository. 🚀
-
+ 
