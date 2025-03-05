@@ -91,7 +91,7 @@ npm run dev
 
 
 
-## 📬 Connect with Me
+📬 Connect with Me
 ## 📩 Email: yamjalamanisandeep@gmail.com
 ##🔗 LinkedIn: linkedin.com/in/ymanisandeep
 ##🐙 GitHub:[ github.com/yamjalamanisandeep](https://github.com/yamjalamanisandeep)
@@ -108,4 +108,5 @@ If you like this project, consider starring ⭐ the repository to support my wor
 - **Commit and push the `README.md` file** using Git.  
 
 Now your **GitHub `README.md`** is fully professional and well-structured! 🚀🔥
+
 
