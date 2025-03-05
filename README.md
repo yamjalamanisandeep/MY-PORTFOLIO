@@ -60,19 +60,17 @@ This project serves as a showcase of my **skills, projects, certifications, and 
 ---
 
 ## 📂 Project Structure  
-
+```bash
 my-portfolio/
 │── app/
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Main pages (Home, About, Projects, Contact)
-│── assets/ # Images and icons
-│── public/ # Static files like resume
-│── styles/ # Global styles
-│── package.json # Project dependencies
-│── next.config.js # Next.js configuration
-│── README.md # Project documentation
-
-
+│   ├── components/     # Reusable UI components
+│   ├── pages/          # Main pages (Home, About, Projects, Contact)
+│── assets/             # Images and icons
+│── public/             # Static files like resume
+│── styles/             # Global styles
+│── package.json        # Project dependencies
+│── next.config.js      # Next.js configuration
+│── README.md           # Project documentation
 
 ---
 
@@ -84,7 +82,7 @@ git clone https://github.com/yamjalamanisandeep/MY-PORTFOLIO.git
 cd MY-PORTFOLIO
 
 
-### npm install
+## npm install
 
 npm run dev
 
@@ -93,12 +91,12 @@ npm run dev
 
 
 
-📬 Connect with Me
-📩 Email: yamjalamanisandeep@gmail.com
-🔗 LinkedIn: linkedin.com/in/ymanisandeep
-🐙 GitHub:[ github.com/yamjalamanisandeep](https://github.com/yamjalamanisandeep)
+## 📬 Connect with Me
+## 📩 Email: yamjalamanisandeep@gmail.com
+##🔗 LinkedIn: linkedin.com/in/ymanisandeep
+##🐙 GitHub:[ github.com/yamjalamanisandeep](https://github.com/yamjalamanisandeep)
 
-⭐ Support
+##⭐ Support
 If you like this project, consider starring ⭐ the repository to support my work!
 
 
