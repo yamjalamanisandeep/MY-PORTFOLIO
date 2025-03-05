@@ -69,7 +69,7 @@ This project serves as a showcase of my **skills, projects, certifications, and 
 ## 📬 Connect with Me
 📩 Email: yamjalamanisandeep@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/ymanisandeep
+🔗 LinkedIn: https://www.linkedin.com/in/ymanisandeep
 
 🐙 GitHub:[ github.com/yamjalamanisandeep](https://github.com/yamjalamanisandeep)
 
