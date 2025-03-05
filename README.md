@@ -7,7 +7,17 @@
 
 
 
-🔗 Live Demo :- https://my-portfolio-psi-one-42.vercel.app/
+
+
+
+
+
+
+
+
+
+
+         🔗 Live Demo :- https://my-portfolio-psi-one-42.vercel.app/
 
 ## 🚀 About the Project  
 I’m excited to share my **personal portfolio website**, built using **React.js, Next.js, and Tailwind CSS**! 🚀  
@@ -68,7 +78,7 @@ my-portfolio/
 
 ## 🚀 How to Run Locally  
 
-### 1️⃣ Clone the Repository  
+## 1️⃣ Clone the Repository  
 ```sh
 git clone https://github.com/yamjalamanisandeep/MY-PORTFOLIO.git
 cd MY-PORTFOLIO
