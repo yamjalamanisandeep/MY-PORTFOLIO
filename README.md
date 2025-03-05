@@ -63,7 +63,7 @@ If you like this project, consider starring ⭐ the repository to support my wor
 
 
 ## 📂 Project Structure  
-
+```bash
 my-portfolio/
 │── app/
 │   ├── components/     # Reusable UI components
