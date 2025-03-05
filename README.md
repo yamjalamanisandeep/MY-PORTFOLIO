@@ -1,6 +1,6 @@
 # 🌐 My Portfolio Website  
 
-![Portfolio Preview](assets/portfolio-preview.png)  
+![Uploading image.png…]()
 
 ## 🚀 About the Project  
 This is my **personal portfolio website**, built with **React.js, Next.js, and Tailwind CSS**. The website showcases my **skills, projects, certifications, and contact information** in a modern and interactive way.  
