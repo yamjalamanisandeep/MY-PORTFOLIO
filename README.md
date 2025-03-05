@@ -59,6 +59,15 @@ This project serves as a showcase of my **skills, projects, certifications, and 
 
 ---
 
+📬 Connect with Me
+## 📩 Email: yamjalamanisandeep@gmail.com
+##🔗 LinkedIn: linkedin.com/in/ymanisandeep
+##🐙 GitHub:[ github.com/yamjalamanisandeep](https://github.com/yamjalamanisandeep)
+
+##⭐ Support
+If you like this project, consider starring ⭐ the repository to support my work!
+
+
 ## 📂 Project Structure  
 ```bash
 my-portfolio/
@@ -91,13 +100,6 @@ npm run dev
 
 
 
-📬 Connect with Me
-## 📩 Email: yamjalamanisandeep@gmail.com
-##🔗 LinkedIn: linkedin.com/in/ymanisandeep
-##🐙 GitHub:[ github.com/yamjalamanisandeep](https://github.com/yamjalamanisandeep)
-
-##⭐ Support
-If you like this project, consider starring ⭐ the repository to support my work!
 
 
 ---
