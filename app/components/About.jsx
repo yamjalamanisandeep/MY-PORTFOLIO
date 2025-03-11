@@ -72,8 +72,6 @@ const About = () => {
         transition={{ duration: 1, delay: 0.5 }}
       >
         <h3 className="text-3xl font-bold text-gray-900 dark:text-white mb-6">Education</h3>
-      
-
         {/* Education List */}
         <div className="grid md:grid-cols-2 gap-6">
           {infoList.map((edu, index) => (
@@ -86,7 +84,7 @@ const About = () => {
             >
               <div className="flex justify-between items-center">
                 <div>
-                  <p className="text-xl font-semibold text-gray-900 dark:text-white">{edu.degree}</p>
+                  <p className="text-xl font-semibold text-gray-900 dark:text-yellow-400">{edu.degree}</p>
                   <p className="text-base text-gray-600 dark:text-gray-300 mt-1">{edu.college}</p>
                 </div>
                 <p className="text-sm text-gray-600 dark:text-gray-400 px-3 py-1">{edu.year}</p>

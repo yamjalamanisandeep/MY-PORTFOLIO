@@ -1,5 +1,3 @@
-
-
 import { Outfit, Ovo } from "next/font/google";
 import "./globals.css";
 

@@ -53,17 +53,18 @@ export const infoList = [
     },
   ];
 
-export const skillsData = [
+  export const skillsData = [
     { skill: "C", level: 80 },
-    {skill:"Python",level:70},
+    { skill: "Python", level: 70 },
     { skill: "Java", level: 70 },
     { skill: "Data Structures & Algorithms", level: 60 },
     { skill: "SQL", level: 70 },
-    {skill:"HTML CSS JAVASCRIPT",level:80},
-    {skill:"React.js" ,level:75}
-   
-   
-  ];
+    { skill: "Frontend (HTML, CSS, JavaScript)", level: 80 },
+    { skill: "React.js", level: 75 },
+    { skill: "Backend (Node.js, Express.js)", level: 70 },
+    { skill: "Full-Stack Development (MERN)", level: 65 }
+];
+
   
   export const experienceData = [
     {
@@ -102,8 +103,8 @@ export const projectsData = [
       description:
         "A personal portfolio website built with React.js and Tailwind CSS to showcase my skills, projects, and experience.",
       technologies: ["React.js", "Tailwind CSS", "Next.js","Node.js"],
-      liveLink: "https://localhost:3000",
-      codeLink: "https://github.com/yamjalamanisandeep",
+      liveLink: "https://my-portfolio-git-main-yamjala-mani-sandeeps-projects.vercel.app/",
+      codeLink: "https://github.com/yamjalamanisandeep/MY-PORTFOLIO",
       image: portfolio_pic,
     },
     {
@@ -111,7 +112,7 @@ export const projectsData = [
       description:
         "A Netflix Clone built using HTML, CSS, and JavaScript.It features a responsive, user-friendly UI with seamless API integration for dynamic content and trailer previews. 🚀",
       technologies: ["HTML", "CSS", "JAVASCRIPT"],
-      liveLink: "https://ecommerce.example.com",
+      liveLink: "https://netflix-clone-git-main-yamjala-mani-sandeeps-projects.vercel.app/",
       codeLink: "https://github.com/yamjalamanisandeep/NETFLIX-CLONE",
       image: netflixclone, 
     },

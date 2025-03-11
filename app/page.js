@@ -16,10 +16,7 @@ export default function Home() {
         <ThemeToggle />
       </div>
 
-      {/* Navbar */}
       <Navbar />
-
-      {/* Main Content */}
       <Header />
       <About />
       <Skills />
